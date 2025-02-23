@@ -1,5 +1,4 @@
 import type { NewsArticle } from '../types';
-import { getCache, setCache } from './cache';
 
 const API_KEY = 'wjd88kyr8mfd5vctil91ndte0rkxeemphvmuy2vc';
 
